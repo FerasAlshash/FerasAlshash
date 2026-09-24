@@ -36,11 +36,11 @@ Currently, I'm also working on **Hireley - Autonomous AI Voice Interviews & Voca
 
 ## 📌 Featured Projects
 
-### 🔹 Hireley / Autonomous AI Voice Interviews
+### 🔹 Inexley / Autonomous AI Voice Interviews
 
 **Autonomous AI Voice Interviews & Vocal Analytics for Modern Hiring**
 
-Currently developing Hireley, an AI-powered interview platform built around autonomous voice interactions.
+Currently developing Inexley, an AI-powered interview platform built around autonomous voice interactions.
 
 The platform explores how AI Voice Agents can conduct structured interviews, interact naturally with candidates, and analyze interview performance and vocal characteristics to support more objective hiring decisions.
 
