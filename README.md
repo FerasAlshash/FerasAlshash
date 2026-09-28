@@ -5,125 +5,86 @@
 
 ## 🚀 About Me
 
-🎓 **B.Eng. in Electronics & Communication Engineering**
+🎓 **Founder & Lead AI Architect @ Inexley** | B.Eng. in Electronics & Telecommunications Engineering
 
-I'm an **AI Engineer** focused on building autonomous AI systems, intelligent applications, and AI-powered automation.
+I am an **AI Architect & Systems Engineer** specializing in enterprise-grade autonomous AI platforms, acoustic intelligence, and scalable agentic workflows.
 
-My work combines **Artificial Intelligence, Software Engineering, and Automation**, with a particular focus on AI Agents, Large Language Models, RAG architectures, Voice AI, and Multi-Agent Systems.
+Grounded in **Electronics & Telecommunications Engineering**, my technical scope bridges foundational machine learning, neural network design, model fine-tuning, and signal processing with full-stack AI system architecture. My work merges **System Architecture, Acoustic Intelligence, and Product Strategy**, with a strong focus on Conversational AI, Retrieval-Augmented Generation (RAG), Voice AI, WebSockets, and Multi-Agent Orchestration.
 
-I enjoy turning ideas into practical AI solutions - from designing system architectures and integrating AI models to connecting APIs, databases, automation workflows, and external services.
+I am the Founder and Lead Architect of **[Inexley](https://inexley.com)**, an enterprise-grade autonomous AI voice interviewing and talent intelligence platform.
 
-My experience includes building autonomous AI agents, conversational voice and text systems, natural-language interfaces for enterprise data, and AI-powered automation workflows.
+## 💡 Core Competencies & Technical Skills
 
-I'm particularly interested in developing AI systems that can not only understand and generate information, but also **reason, interact, and take action**.
+- 🏗️ **System Architecture & Full-Stack AI Engineering**
+- 🎙️ **Conversational AI, Voice AI & Acoustic Intelligence**
+- 🧠 **Core ML, Deep Learning & Fine-Tuning (PyTorch, TensorFlow, LoRA/QLoRA, MLflow, Ultralytics)**
+- 🤖 **Autonomous AI Agents & Agentic Workflows (LangChain, Multi-Agent Orchestration, n8n)**
+- 🔎 **Retrieval-Augmented Generation (RAG) & Vector Databases**
+- ⚡ **Real-time WebSockets & High-Performance APIs (FastAPI, Python 3.12)**
+- ⚛️ **Modern Frontend Solutions (React 19, Vite, Tailwind CSS)**
+- 🗄️ **Multi-Tenant Security, PostgreSQL (Supabase RLS), Docker & BYOK Credential Vaults**
 
-Currently, I'm also working on **Hireley - Autonomous AI Voice Interviews & Vocal Analytics for Modern Hiring**, an AI-powered platform exploring the use of autonomous Voice Agents in modern recruitment.
+## 📌 Featured Platforms & Open-Source Systems
 
-## 💡 Skills & Tools
+### 🔹 [Inexley](https://inexley.com) | Enterprise AI Voice Interviewing Platform
 
-- 🤖 Autonomous AI Agents & Multi-Agent Systems
-- 🧠 Generative AI & Large Language Models (LLMs)
-- 🔎 RAG & Vector Databases
-- 🎙️ Voice AI & Conversational AI
-- 🔗 AI Automation & n8n
-- 🐍 Python & AI Engineering
-- ⚡ FastAPI & REST APIs
-- 🗄️ PostgreSQL & Data Systems
-- 🧩 LangChain & AI Frameworks
-- 🐳 Docker & Containerized Applications
-- 📊 Machine Learning & Deep Learning
-- ☁️ AI Application Deployment
+**Autonomous AI Voice Interviewing & Talent Intelligence Platform**
 
-## 📌 Featured Projects
+An enterprise hiring platform powered by autonomous voice AI agents. Inexley conducts structured bidirectional voice interviews, automates high-volume candidate screening, processes real-time acoustic signal analytics, and delivers deep competency evaluation dossiers.
 
-### 🔹 Inexley / Autonomous AI Voice Interviews
+**Core Tech:** Voice AI, Acoustic Intelligence, PyTorch/TensorFlow Pipelines, WebSockets, RAG, NLP, Multilingual Infrastructure
 
-**Autonomous AI Voice Interviews & Vocal Analytics for Modern Hiring**
+### 🔹 [LeadAgent24](https://github.com/FerasAlshash/leadagent24) | Autonomous B2B Prospecting & AI Outbound Engine
 
-Currently developing Inexley, an AI-powered interview platform built around autonomous voice interactions.
+**Full-Stack Open-Source B2B Prospecting & Multi-Channel Outbound SaaS**
 
-The platform explores how AI Voice Agents can conduct structured interviews, interact naturally with candidates, and analyze interview performance and vocal characteristics to support more objective hiring decisions.
+A modern full-stack SaaS platform automating the B2B prospecting cycle: geospatial business discovery (Google Places/Apify), deep contact enrichment, AI data verification, BYOK email credentials vault (Resend, Brevo, SendGrid, SMTP), and a unified 5-Tone AI copywriting engine.
 
-**Focus:** Voice AI, AI Agents, Autonomous Interviews, Vocal Analytics, AI Evaluation
+**Core Tech:** React 19, FastAPI (Python 3.12), Supabase (PostgreSQL & RLS), n8n, Apify Cloud API, Docker, BYOK Email Vault
 
 ### 🔹 Autonomous AI Support Agent
 
-An autonomous AI support system designed for **voice and text interactions**, combining conversational AI with voice and telephony technologies.
+An autonomous voice and text AI support infrastructure combining conversational models with real-time telephony integrations to automate complex enterprise customer-support workflows.
 
-The system integrates AI agents with external services to automate customer-support workflows.
-
-**Technologies:** Python, ElevenLabs, Twilio, OpenAI, LangChain, PostgreSQL
+**Technologies:** Python, WebSockets, ElevenLabs, Twilio, OpenAI, LangChain, PostgreSQL
 
 ### 🔹 Enterprise Natural Language Query System
 
-An AI-powered system that allows employees to interact with complex enterprise databases using **natural language** instead of manually writing SQL queries.
+An AI-powered interface allowing enterprise teams to query complex relational databases using natural language, translating user queries into precise SQL and analytics execution.
 
-The system combines LLMs, vector databases, and automation to translate natural-language requests into actionable database queries.
+**Technologies:** Python, LLMs, Vector Databases, FastAPI, n8n
 
-**Technologies:** Python, LLMs, Vector Databases, n8n
+### 🔹 Smart Medical Risk Prediction System & Generative Assistant
 
-### 🔹 Automated CV Evaluation System
+A machine-learning and conversational medical intelligence platform for diabetes risk prediction, combining trained predictive algorithms with generative conversational models.
 
-An AI-powered automation workflow for analyzing job applications and generating structured candidate evaluations.
+**Technologies:** PyTorch, Scikit-learn, XGBoost, Mistral AI, LangChain, MLflow, Flask
 
-The system automates CV analysis, evaluation, PDF report generation, and email delivery.
+## 📚 Machine Learning & Data Science Repositories
 
-**Technologies:** n8n Agents, Prompt Engineering, REST APIs
+These public repositories reflect foundational research, computer vision, and predictive modeling projects. As my work expanded into enterprise architectures and production-grade SaaS systems, most production-grade trained models, proprietary datasets, and custom fine-tuned weights (LoRA/QLoRA) remain proprietary and non-public.
 
-### 🔹 Smart Medical System
+- 🔹 **[COVID-19 CXR CNN](https://github.com/FerasAlshash/COVID-19-CXR-CNN):** Deep Convolutional Neural Network (CNN) trained for medical image classification and abnormality detection.
+- 🔹 **[Movie Recommender with Streamlit](https://github.com/FerasAlshash/Movie-Recommender-used-Streamlit):** Content/collaborative filtering recommendation engine.
+- 🔹 **[Titanic Data Analysis & Prediction](https://github.com/FerasAlshash/Titanic---Data-Analysis-and-Predictive-Modeling):** End-to-end predictive analysis pipeline.
+- 🔹 **[Customer Segmentation (Kaggle)](https://www.kaggle.com/code/ferasalshash/customer-segmentation):** Behavioral customer clustering models using K-Means and PCA.
+- 🔹 **[Housing Market Data Analysis (Kaggle)](https://www.kaggle.com/code/ferasalshash/data-analysis-project-housing):** Statistical analysis and regression modeling for real estate trends.
 
-A machine-learning system for diabetes risk prediction combined with a generative AI chatbot.
+## 🎯 Technical Domain Focus
 
-**Technologies:** Scikit-learn, XGBoost, Mistral AI, LangChain, MLflow, Flask
+- 🤖 Production-grade Agentic workflows, Multi-Agent Orchestration & RAG architectures
+- 🎙️ Low-latency real-time acoustic signal processing & WebSocket voice streaming
+- 🧠 Parameter-Efficient Fine-Tuning (LoRA / QLoRA) for Domain-Specific LLMs & Voice Models
+- ⚙️ Scalable B2B AI Architecture & Full-Stack Systems Design
 
-## 📚 Earlier Machine Learning Projects
+## 💌 Connect & Contact
 
-These projects reflect the earlier stages of my journey in Machine Learning, Deep Learning, and Data Science. They are among the projects I can publicly share and showcase here.
-
-As my experience evolved, my work increasingly moved toward more advanced, production-oriented AI systems and real-world applications, with much of that work remaining outside this public portfolio.
-
-### 🔹 [Movie Recommender with Streamlit](https://github.com/FerasAlshash/Movie-Recommender-used-Streamlit)
-
-A movie recommendation system built with Streamlit to suggest movies based on user preferences.
-
-### 🔹 [COVID-19 CXR CNN](https://github.com/FerasAlshash/COVID-19-CXR-CNN)
-
-A Convolutional Neural Network model to predict COVID-19 infections from chest X-ray images.
-
-### 🔹 [Titanic Data Analysis & Prediction](https://github.com/FerasAlshash/Titanic---Data-Analysis-and-Predictive-Modeling)
-
-An in-depth analysis and predictive model for the Titanic dataset using machine learning.
-
-### 🔹 [Customer Segmentation (Kaggle)](https://www.kaggle.com/code/ferasalshash/customer-segmentation)
-
-Segmenting customers based on purchasing behavior using clustering techniques.
-
-### 🔹 [Housing Market Data Analysis (Kaggle)](https://www.kaggle.com/code/ferasalshash/data-analysis-project-housing)
-
-Data analysis and visualization for real estate market trends.
-
-## 🎯 Current Interests
-
-I'm currently exploring and building solutions around:
-
-- 🤖 Autonomous AI Agents
-- 🧩 Multi-Agent Architectures
-- 🎙️ Voice-based AI Systems
-- 🔎 RAG & Enterprise AI
-- ⚙️ Agentic Workflows
-- 🔗 AI-powered Automation
-- 🧠 Human-AI Interaction
-- 🚀 AI Product Development
-
-## 💌 Contact
-
-Feel free to reach out if you're interested in collaborating, discussing AI projects, or building intelligent applications.
-
-🔹 **GitHub:** [FerasAlshash](https://github.com/FerasAlshash)  
-🔹 **LinkedIn:** [Feras Alshash](https://www.linkedin.com/in/feras-alshash-bb3106a9/)  
-🔹 **Kaggle:** [My Profile](https://www.kaggle.com/ferasalshash)  
-🔹 **Portfolio:** [My Portfolio](https://feras-alshash-portfolio.netlify.app)
+🌐 **Company Website:** [inexley.com](https://inexley.com)  
+✉️ **Official Email:** [info@inexley.com](mailto:info@inexley.com)  
+💼 **LinkedIn:** [Feras Alshash](https://www.linkedin.com/in/ferasalshash)  
+💻 **GitHub:** [FerasAlshash](https://github.com/FerasAlshash)  
+📊 **Kaggle:** [Profile](https://www.kaggle.com/ferasalshash)  
 
 ---
 
-⭐ **Building AI systems that don't just respond - they take action.**
+⭐ **Building neural architectures and autonomous AI systems that reason, evaluate, and execute.**
